@@ -1,1 +1,5 @@
 Hello Anand
+
+ git config --global user.email "anand@ashmarip.com"
+  git config --global user.name "Vatsanand09"
+test
